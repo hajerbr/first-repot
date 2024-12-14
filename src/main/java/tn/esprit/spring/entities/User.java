@@ -15,6 +15,7 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
 //comment
+  // comment2
 
 @Entity
 @Table(name = "T_USER")
