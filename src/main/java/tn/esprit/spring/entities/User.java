@@ -1,4 +1,4 @@
-package tn.esprit.spring.entities;
+  package tn.esprit.spring.entities;
 
 
 import java.io.Serializable;
@@ -13,6 +13,8 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
+
+//comment
 
 @Entity
 @Table(name = "T_USER")
